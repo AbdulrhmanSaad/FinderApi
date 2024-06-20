@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'FinderApi'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_927BC976B2964F579240045280D6C25D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0D040BA77E6348F8B61EEDD70FD62AB7 }}
